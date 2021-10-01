@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Weather</string>
+    <string name="allow">Allow</string>
+    <string name="don_t_allow">Don\'t Allow</string>
+    <string name="would_you_like_to_share_your_location">Would you like to share your location?</string>
+    <string name="todo">TODO</string>
 </resources>
